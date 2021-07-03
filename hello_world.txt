@@ -1,0 +1,2 @@
+This is peasant's first git project!
+well actually it isn't, but it's an early one and I've forgotten how to use it anyhow
